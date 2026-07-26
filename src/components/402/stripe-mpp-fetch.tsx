@@ -6,7 +6,6 @@ import {
   Loader2,
   ShieldCheck,
   Sparkles,
-  Zap,
   CheckCircle2,
   DollarSign,
 } from "lucide-react";
